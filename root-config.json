@@ -1,34 +1,34 @@
 {
     "extensionVersionRange": "*",
-    "generatedAt": "2026-01-06T20:02:05Z",
+    "generatedAt": "2026-01-06T20:32:03Z",
     "remoteSystemLookup": {
         "dynamicApi": {
             "aliasLookup": {
-                "https:\/\/botnadzor.org\/script": {
+                "https://botnadzor.org/script": {
                     "role": "primary"
                 },
-                "https:\/\/botnadzor-epe1uraet-botnadzors-projects.vercel.app\/script": {}
+                "https://botnadzor-epe1uraet-botnadzors-projects.vercel.app/script": {}
             }
         },
         "frontend": {
             "aliasLookup": {
-                "https:\/\/botnadzor.org": {
+                "https://botnadzor.org": {
                     "role": "primary"
                 },
-                "https:\/\/botnadzor-epe1uraet-botnadzors-projects.vercel.app": {}
+                "https://botnadzor-epe1uraet-botnadzors-projects.vercel.app": {}
             }
         },
         "staticApi": {
             "aliasLookup": {
-                "https:\/\/api.botnadzor.org\/extension\/static": {
+                "https://api.botnadzor.org/extension/static": {
                     "role": "primary"
                 },
-                "https:\/\/botnadzor.github.io\/extension-data": {},
-                "https:\/\/raw.githubusercontent.com\/botnadzor\/extension-data\/main": {}
+                "https://botnadzor.github.io/extension-data": {},
+                "https://raw.githubusercontent.com/botnadzor/extension-data/main": {}
             },
             "listLookup": {
                 "accounts": {
-                    "generatedAt": "2026-01-06T20:00:16Z",
+                    "generatedAt": "2026-01-06T20:30:14Z",
                     "itemCount": 550565
                 },
                 "announcements": {
@@ -36,7 +36,7 @@
                     "itemCount": 1
                 },
                 "tags": {
-                    "generatedAt": "2025-12-31T15:00:01Z",
+                    "generatedAt": "2026-01-06T20:30:01Z",
                     "itemCount": 94
                 },
                 "walls": {
