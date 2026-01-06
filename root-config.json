@@ -1,0 +1,49 @@
+{
+    "extensionVersionRange": "*",
+    "generatedAt": "2026-01-06T19:02:04Z",
+    "remoteSystemLookup": {
+        "dynamicApi": {
+            "aliasLookup": {
+                "https:\/\/botnadzor.org\/script": {
+                    "role": "primary"
+                },
+                "https:\/\/botnadzor-epe1uraet-botnadzors-projects.vercel.app\/script": {}
+            }
+        },
+        "frontend": {
+            "aliasLookup": {
+                "https:\/\/botnadzor.org": {
+                    "role": "primary"
+                },
+                "https:\/\/botnadzor-epe1uraet-botnadzors-projects.vercel.app": {}
+            }
+        },
+        "staticApi": {
+            "aliasLookup": {
+                "https:\/\/api.botnadzor.org\/extension\/static": {
+                    "role": "primary"
+                },
+                "https:\/\/botnadzor.github.io\/extension-data": {},
+                "https:\/\/raw.githubusercontent.com\/botnadzor\/extension-data\/main": {}
+            },
+            "listLookup": {
+                "accounts": {
+                    "generatedAt": "2026-01-06T19:00:14Z",
+                    "itemCount": 550564
+                },
+                "announcements": {
+                    "generatedAt": "2026-01-05T09:00:00Z",
+                    "itemCount": 1
+                },
+                "tags": {
+                    "generatedAt": "2025-12-31T15:00:01Z",
+                    "itemCount": 94
+                },
+                "walls": {
+                    "generatedAt": "2025-12-30T14:00:01Z",
+                    "itemCount": 1197
+                }
+            }
+        }
+    }
+}
