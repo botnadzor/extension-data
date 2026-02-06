@@ -1,6 +1,6 @@
 {
     "extensionVersionRange": "*",
-    "generatedAt": "2026-02-06T15:02:05Z",
+    "generatedAt": "2026-02-06T16:02:06Z",
     "remoteSystemLookup": {
         "dynamicApi": {
             "aliasLookup": {
@@ -13,7 +13,8 @@
             "aliasLookup": {
                 "https://botnadzor.org": {
                     "role": "primary"
-                }
+                },
+                "https://botnadzor-epe1uraet-botnadzors-projects.vercel.app": {}
             }
         },
         "staticApi": {
@@ -26,8 +27,8 @@
             },
             "listLookup": {
                 "accounts": {
-                    "generatedAt": "2026-02-06T15:00:15Z",
-                    "itemCount": 554974
+                    "generatedAt": "2026-02-06T16:00:13Z",
+                    "itemCount": 554975
                 },
                 "announcements": {
                     "generatedAt": "2026-01-11T21:00:00Z",
