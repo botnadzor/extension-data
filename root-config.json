@@ -1,6 +1,6 @@
 {
     "extensionVersionRange": "*",
-    "generatedAt": "2026-07-20T07:00:48Z",
+    "generatedAt": "2026-07-20T07:30:45Z",
     "remoteSystemLookup": {
         "dynamicApi": {
             "aliasLookup": {
@@ -27,7 +27,7 @@
             },
             "listLookup": {
                 "accounts": {
-                    "generatedAt": "2026-07-20T07:00:16Z",
+                    "generatedAt": "2026-07-20T07:30:14Z",
                     "itemCount": 584393
                 },
                 "announcements": {
